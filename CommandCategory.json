@@ -1,0 +1,13 @@
+{
+    "Scaler":"Scaler",
+    "PQ":"PQ",
+    "System":"System",
+    "Android":"Android",
+    "GPU":"GPU",
+    "Kernel":"Kernel",
+    "Audio":"Audio",
+    "Media":"Media",
+    "Bootcode":"Bootcode",
+    "Misc":"Misc",
+    "TCL":"TCL"
+}

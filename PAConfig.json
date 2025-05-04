@@ -1,0 +1,15 @@
+{
+  "//":"Simulation or Reality",
+  "Environment":"Simulation",
+  "//": "UI/Command",
+  "OperationType":"Command",
+  "//": "ADB/Windows",
+  "ConnectionType":"Windows",
+  "//": "Using UI",
+  "TargetApp": "MobaXterm",
+  "//": "Using ADB",
+  "TargetIP": "",
+  "PATH_CommandFolder":"Commands",
+  "End":""
+}
+
