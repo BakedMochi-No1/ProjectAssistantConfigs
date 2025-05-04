@@ -9,7 +9,7 @@
   "TargetApp": "MobaXterm",
   "//": "Using ADB",
   "TargetIP": "",
-  "PATH_CommandFolder":"Commands",
+  "PATH_CommandFolder":"../Commands",
   "End":""
 }
 
