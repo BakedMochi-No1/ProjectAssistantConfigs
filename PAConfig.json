@@ -1,15 +1,10 @@
 {
-  "//":"Simulation or Reality",
-  "Environment":"Simulation",
-  "//": "UI/Command",
-  "OperationType":"Command",
-  "//": "ADB/Windows",
-  "ConnectionType":"Windows",
-  "//": "Using UI",
-  "TargetApp": "MobaXterm",
-  "//": "Using ADB",
-  "TargetIP": "",
-  "PATH_CommandFolder":"../Commands",
-  "End":""
+    "PATH_ConfigFile": "../Configs/PAConfig.json",
+    "PATH_CommandFolder": "../Commands",
+    "//": "IP or App Name(MobaXterm)",
+    "Environment": "Reality",
+    "OperationType": "Command",
+    "ConnectionType": "Linux_ADB",
+    "ConnectTarget": "192.168.1.2",
+    "End": ""
 }
-
